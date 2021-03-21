@@ -1,0 +1,3 @@
+include ':studio_plugin-0.3.1'
+include ':app'
+rootProject.name = "Freepass 2.1"
